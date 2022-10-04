@@ -1,0 +1,28 @@
+#head{
+    display: flex;
+    background-color: rgb(234, 252, 200);
+
+}
+#head nav a{
+    margin-left: 600px;
+    padding-bottom:  30px;
+    color: black;
+}
+#header{
+    margin-left: 750px;
+    text-align:center;
+    font-family:inherit;
+}
+button{
+    padding:10px 20px;
+    margin:5px;
+    color:black;
+    background-color: rgb(214, 205, 205);
+    border: none;
+    outline: none;
+    font-size: 18px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: gray;
+}

@@ -1,0 +1,70 @@
+#header{
+    background-color: aquamarine;
+    display: flex;
+    padding: 5%;
+    line-height:50px;
+}
+#main{
+    display: flex;
+    padding: 20px;
+    
+}
+#a a{
+    color: antiquewhite;
+    padding: 125px;
+    position: relative;
+    font-size: 24;
+}
+#a{
+    height: 300px;
+    width: 400px;
+    background-image: url(./Assets/technology.jpg);
+    position:relative;    
+    margin-right: 20px;
+    margin-left: 50px;
+    
+    
+}
+#b a{
+    color: antiquewhite;
+    padding: 125px;
+    font-size: 24;
+}
+#b{
+    height: 300px;
+    width: 400px;
+    background-image: url(./Assets/capitals.jpg);
+    position:relative;    
+    margin-right: 20px;
+    margin-left: 20px;
+    
+    
+}
+#c a{
+    color: antiquewhite;
+    padding: 125px;
+    font-size: 24;
+}
+#c{
+    height: 300px;
+    width: 400px;
+    background-image: url(./Assets/football.jpg);
+    position:relative;    
+    margin-right: 20px;
+    margin-left: 20px;
+    
+}
+#d a{
+    color: antiquewhite;
+    padding: 80px;
+    font-size: 24;
+}
+#d{
+    height: 300px;
+    width: 400px;
+    background-image: url(./Assets/geenerssl\ knowledge.jpg);
+    position:relative;    
+    margin-right: 20px;
+    margin-left: 20px;
+    
+}
